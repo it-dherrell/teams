@@ -1,5 +1,5 @@
 # This python script will scan a txt file of URLs and validate their SSL cert and expiration dates.  If the cert is set to expire within 90 days (or whatever you choose), it will send an alert to a Teams channel of your choice.
-# For more information please see: 
+# For more information please see: https://www.daveherrell.com/python-send-ssl-cert-expirations-to-teams/
 
 import socket
 import ssl
