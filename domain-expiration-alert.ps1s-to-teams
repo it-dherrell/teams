@@ -1,5 +1,5 @@
 #Script to scan a text file list of domain names and post 30 days expiring domains to a Microsoft Teams Channel. 
-#For more information check out 
+#For more information check out https://www.daveherrell.com/microsoft-teams-slack-alerts-for-expiring-domain-names/
 
 # Define file paths and Teams webhook
 $domainFile = "/Users/daveherrell/Desktop/domains.txt" #update this with the location of your txt file.
