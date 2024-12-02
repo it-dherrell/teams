@@ -56,14 +56,8 @@ Before running these scripts, ensure you have the following:
 
 I welcome contributions! If you have improvements or new scripts to add, feel free to fork this repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ## Support
 
 If you have any questions or encounter issues, please create an issue in this repository or contact me direct!
 
----
-
-Happy scripting!
