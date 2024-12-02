@@ -46,13 +46,11 @@ Before running these scripts, ensure you have the following:
    .\script_name.ps1
    ```
 
-## Repository Structure
+## Scripts
 
-- **`Create-Team.ps1`**: Automates the creation of new Microsoft Teams.
-- **`Manage-Members.ps1`**: Manages team members by adding or removing users.
-- **`Channel-Management.ps1`**: Handles channel creation and organization.
-- **`Teams-Report.ps1`**: Generates activity and usage reports for Microsoft Teams.
-- **`README.md`**: Documentation and usage instructions.
+- **domain-expiration-alert-to-teams.ps1`**: Domain expiration alerts into Teams.
+- **powershell-ssl-expiration-alert-teams.ps1**: SSL Expiration alerts into Microsoft Teams.
+
 
 ## Contributing
 
