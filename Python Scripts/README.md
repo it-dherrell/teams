@@ -63,7 +63,7 @@ This project is licensed under the MIT License. See the [LICENSE](../LICENSE) fi
 
 ## Support
 
-For any questions or issues, please create an issue in this repository or contact the repository owner.
+For any questions or issues, please create an issue in this repository or contact me direct!
 
 ---
 
