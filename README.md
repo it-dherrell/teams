@@ -49,9 +49,6 @@ Welcome to the **Microsoft Teams Management Scripts** repository! This repositor
 
 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Support
 
