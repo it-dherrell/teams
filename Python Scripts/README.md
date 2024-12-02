@@ -44,14 +44,11 @@ Before using these scripts, ensure you have the following:
    python script_name.py
    ```
 
-## Repository Structure
+## Scripts
 
-- **`create_team.py`**: Script to create new Microsoft Teams.
-- **`manage_users.py`**: Script for adding or removing users from a team.
-- **`channel_manager.py`**: Script to create and manage channels within teams.
-- **`reporting.py`**: Script to generate reports on Teams activity.
-- **`requirements.txt`**: List of dependencies required to run the scripts.
-- **`config.json`**: Configuration file for authentication details (not included, create your own).
+- **python-domain-expiration-alert-to-teams.py**: Domain Expiration alerts into your Microsoft Teams channel.
+- **python-ssl-expiration-alert-teams.py**: SSL Expiration Alerts to a designated Teams channel.
+
 
 ## Contributing
 
